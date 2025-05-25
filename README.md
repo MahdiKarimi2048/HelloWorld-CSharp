@@ -1,6 +1,3 @@
-# HelloWorld-CSharp
-My first Hello World program in C#
-
 using System;
 
 class Program
